@@ -8,4 +8,6 @@ My primary interests lie at these fields:
 
 - DevOps & SRE: I'm interested in building, maintaining and automating scalable and reliable systems.
 
-- Information Security: I like thinking like a defender to build secure systems, and like a researcher to understand how they break.
+- Information Security: I like to think like a defender to build secure systems, and like a researcher to understand how they break.
+
+(I use Arch btw)
