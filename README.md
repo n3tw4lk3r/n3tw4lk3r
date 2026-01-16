@@ -8,11 +8,6 @@ I’m an IT student with a strong interest in **systems programming** and **infr
 ## Other skills
 Python, Bash, Make/CMake, Git
 
-## Background
-- Solid programming foundation
-- Experience with Linux-based environments
-- Hands-on work with pet projects and open-source tools
-
 ## Currently
 - Deepening knowledge in C/C++
 - Exploring DevOps practices and build/infrastructure tooling
