@@ -10,5 +10,6 @@ Python, Bash, Make/CMake, Git
 
 ## Currently
 - Deepening knowledge in C/C++
+- Learning Go
 - Exploring DevOps practices and build/infrastructure tooling
 
